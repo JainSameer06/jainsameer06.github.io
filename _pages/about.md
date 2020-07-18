@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a software research engineer at the Voice Intelligence R&D team at Samsung Research Institute, Bangalore, where I'm currently working on building an Inverse Text Normalization system for Samsung Electronics' voice assistant—Bixby.
+I am a computer science graduate from Birla Institute of Technology and Science, Pilani (2019). I am interested in Natural Language Processing and its applications social science and literature. 
 
-Prior to this, I received my bachelor's degree in Computer Science from Birla Institute of Technology and Science, Pilani, in July 2019. 
+Currently, I am a software engineer at the Voice Intelligence R&D team at Samsung Research Institute Bangalore, where I work on developing an on-device version of Samsung's voice assistant—Bixby.
+
+
+
